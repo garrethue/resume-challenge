@@ -1,9 +1,15 @@
 
 .header{
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italics{
+    font-style:italic;
 }
 
 .underline{
@@ -33,16 +39,16 @@ body{
     padding-bottom: 0.5in;
     max-width: 8.5in;
     color: black;
-    font-family: calibri;
-    font-size: large;
+    font-family: calibri, sans-serif, serif;
+    font-size: 10pt;
     border: 1px solid black;
 }
 
 ul{
     margin-top: 0px;
-    margin-bottom: 15px;
+    margin-bottom: 12pt;
 }
 
 section{
-    margin-bottom: 15px;
+    margin-bottom: 12pt;
 }
