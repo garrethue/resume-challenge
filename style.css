@@ -1,18 +1,9 @@
-p {
-    margin: 0px;
-    padding: 0px;
-}
 
 .header{
   position: fixed;
   left: 0;
   top: 0;
   width: 100%;
-}
-
-.section-break{
-    margin-bottom: 12px;
-    background-color: red;
 }
 
 .underline{
@@ -49,6 +40,7 @@ body{
 
 ul{
     margin-top: 0px;
+    margin-bottom: 15px;
 }
 
 section{
