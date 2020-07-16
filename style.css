@@ -4,12 +4,16 @@
     font-size: 12pt;
 }
 
-.bold{
+#bold{
     font-weight: bold;
 }
 
-.italics{
+#italics{
     font-style:italic;
+}
+
+#bold{
+        font-weight: bold;
 }
 
 .underline{
